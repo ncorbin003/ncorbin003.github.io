@@ -1,7 +1,7 @@
 p {
   color: green;
 }
-.menu {
+.menu li{
   display: inline-block;
 }
 .header {
