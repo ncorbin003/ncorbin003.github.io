@@ -2,7 +2,7 @@ p {
   color: green;
 }
 .menu {
-  display:inline;
+  display: inline-block;
 }
 .header {
   background-color: green;
