@@ -1,7 +1,9 @@
 p {
   color: green;
 }
-
+.menu {
+  display:inline;
+}
 .header {
   background-color: green;
 }
